@@ -19,3 +19,6 @@ An interactive web platform designed to assist users in understanding, calculati
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/LEKHTEMBHARE/Har-Ghar-Solar.git](https://github.com/LEKHTEMBHARE/Har-Ghar-Solar.git)
+
+
+#**Developed By - Lekh Tembhare**
